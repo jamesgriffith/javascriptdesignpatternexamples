@@ -1,0 +1,4 @@
+javascriptdesignpatternexamples
+===============================
+
+design pattern homework
